@@ -1,0 +1,17 @@
+{
+  "name": "Tinnitus Tracker",
+  "short_name": "Acouphènes",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f1420",
+  "theme_color": "#0f1420",
+  "description": "Suivi quotidien des acouphènes : intensité, sommeil, stress, sport.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
